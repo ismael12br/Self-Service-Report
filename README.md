@@ -17,3 +17,8 @@ Um projeto criado como parte dos desafios propostos durante o bootcamp DIO &amp;
 
 ---
 
+## Autor
+
+- **Ismael Lopes**  
+- GitHub: [@ismael12br](https://github.com/ismael12br)  
+- LinkedIn: [linkedin.com/in/ismael-lopes](https://linkedin.com/in/ismael-lopes)
